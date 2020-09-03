@@ -98,7 +98,6 @@ SignatureCapture.propTypes = {
     showNativeButtons: PropTypes.bool,
     showTitleLabel: PropTypes.bool,
     maxSize:PropTypes.number,
-    fileName:PropTypes.string,
     minStrokeWidth: PropTypes.number,
     maxStrokeWidth: PropTypes.number,
     strokeColor: PropTypes.string,
